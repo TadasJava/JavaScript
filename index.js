@@ -40,4 +40,6 @@ let atsakymas = `${vardas} ${pavarde} man yra ${dabartiniaimetai - gimimometai} 
 console.log (atsakymas);
 
 let name1='mano vardas yra';
-console.log(name1.charAt(0));
+console.log(name1);
+
+
